@@ -1,0 +1,70 @@
+﻿<Window x:Class="EmbryoSegmenter.Frames.SortWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SortWindow" Height="750" Width="1200" xmlns:my="clr-namespace:PHICommon;assembly=PHICommon">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Name="grp_Header" Grid.Row="0">
+
+            <Menu  HorizontalAlignment="Stretch" Name="_mnu_Main" VerticalAlignment="Top">
+                <MenuItem Header="File" IsEnabled="False">
+                   
+                </MenuItem>
+                <MenuItem Header="Slice" IsEnabled="False">
+                   
+                </MenuItem>
+                <MenuItem Header="Segment">
+                    <MenuItem Header="Remove Segments" Name="mnu_Remove_Segment" ToolTip="Remove segment from current slice" Click="mnu_Remove_Segment_Click"></MenuItem>
+                    <MenuItem Header="Divide Segment" Name="mnu_Divide_Segment" Visibility="Collapsed" ></MenuItem>
+                    <MenuItem Header="Add Segments" Name="mnu_Add_Segment" Click="mnu_Add_Segment_Click" ToolTip="Join selected segments" ></MenuItem>
+                    <MenuItem Header="Rename Segment" Name="mnu_Rename_Segment" ToolTip="Rename selected segments" Click="mnu_Rename_Segment_Click" ></MenuItem>
+                </MenuItem>
+            </Menu>
+
+            <Button Content="Previous" Height="30" HorizontalAlignment="Left" Margin="480,34,0,0" Name="btn_Previous" VerticalAlignment="Top" Width="104" Click="btn_Previous_Click" />
+            <ComboBox Height="23" HorizontalAlignment="Left" Margin="6,41,0,0" Name="cbx_Slice1" VerticalAlignment="Top" Width="313" SelectionChanged="cbx_Slice1_SelectionChanged" />
+            <ComboBox Height="23" HorizontalAlignment="Left" Margin="859,41,0,0" Name="cbx_Slice2" VerticalAlignment="Top" Width="313" SelectionChanged="cbx_Slice2_SelectionChanged" />
+            <Button Content="Next" Height="30" HorizontalAlignment="Left" Margin="596,34,0,0" Name="btn_Next" VerticalAlignment="Top" Width="104" Click="btn_Next_Click" />
+        </Grid>
+        <Grid Name="grp_Main" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="590"></ColumnDefinition>
+                <ColumnDefinition Width="590"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Name="grd_Display1" Grid.Column="0">
+                <Image Name="pnl_Image1" Stretch="Fill" Margin="5,10,28,60"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512" />
+                <my:DrawingCanvas Background="Transparent" Margin="5,10,28,60" Name="pnl_Panel1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512" />
+                <my:DrawingCanvas Background="Transparent" Margin="5,10,28,60" Name="pnl_Annotation1" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512"/>
+                <ComboBox HorizontalAlignment="Left" IsEditable="False" Margin="95,0,0,20" Name="cbx_Color1" Width="86" Height="22" VerticalAlignment="Bottom" SelectionChanged="cbx_Color1_SelectionChanged" />
+                <Label Content="Outline color:" HorizontalAlignment="Left" Margin="10,0,0,18" Name="label1" Width="95" Height="27" VerticalAlignment="Bottom" />
+                <CheckBox Content="Annotations" Height="22" HorizontalAlignment="Left" Margin="429,0,0,20" Name="chb_Annotation1" Checked="chb_Display1_Checked" Unchecked="chb_Display1_Checked" VerticalAlignment="Bottom" Width="93" />
+                <CheckBox Content="Outline" IsChecked="True" Height="22" HorizontalAlignment="Left" Margin="354,0,0,20" Name="chb_Outline1" Checked="chb_Display1_Checked" Unchecked="chb_Display1_Checked" VerticalAlignment="Bottom" Width="69" />
+                <CheckBox Content="Image" IsChecked="True" HorizontalAlignment="Left" Margin="296,0,0,20" Name="chb_Image1" Width="61" Checked="chb_Display1_Checked" Unchecked="chb_Display1_Checked" Height="22" VerticalAlignment="Bottom" />
+                <ListBox Height="478" Margin="6,44,6,0" Name="lbx_Segment1" SelectionMode="Multiple" VerticalAlignment="Top" SelectionChanged="lbx_Segment1_SelectionChanged" HorizontalAlignment="Right" Width="63" />
+                <Label Content="Segment:" Height="27" HorizontalAlignment="Right" Margin="6,10,6,0" Name="label5" VerticalAlignment="Top" Width="63" />
+
+            </Grid>
+            <Grid Name="grd_Display2" Grid.Column="1">
+                <Image Name="pnl_Image2" Stretch="Fill" Margin="75,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512" />
+                <my:DrawingCanvas Background="Transparent" Margin="75,10,0,0" Name="pnl_Panel2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512" />
+                <my:DrawingCanvas Background="Transparent" Margin="75,10,0,0" Name="pnl_Annotation2" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Height="512" Width="512"/>
+                <ComboBox HorizontalAlignment="Left" IsEditable="False" Margin="161,0,0,20" Name="cbx_Color2" Width="86" Height="22" VerticalAlignment="Bottom" SelectionChanged="cbx_Color2_SelectionChanged" />
+                <Label Content="Outline color:" HorizontalAlignment="Left" Margin="76,0,0,18" Name="label2" Width="95" Height="27" VerticalAlignment="Bottom" />
+                <CheckBox Content="Annotations" Height="22" HorizontalAlignment="Left" Margin="495,0,0,20" Name="chb_Annotation2" Checked="chb_Display2_Checked" Unchecked="chb_Display2_Checked" VerticalAlignment="Bottom" Width="93" />
+                <CheckBox Content="Outline" IsChecked="True" Height="22" HorizontalAlignment="Left" Margin="420,0,0,20" Name="chb_Outline2" Checked="chb_Display2_Checked" Unchecked="chb_Display2_Checked" VerticalAlignment="Bottom" Width="69" />
+                <CheckBox Content="Image" IsChecked="True" HorizontalAlignment="Left" Margin="362,0,0,20" Name="chb_Image2" Width="61" Checked="chb_Display2_Checked" Unchecked="chb_Display2_Checked" Height="22" VerticalAlignment="Bottom" />
+                
+                <ListBox Height="478" Margin="6,44,0,0" Name="lbx_Segment2" SelectionMode="Multiple" VerticalAlignment="Top" SelectionChanged="lbx_Segment2_SelectionChanged" HorizontalAlignment="Left" Width="63" />
+                <Label Content="Segment:" Height="27" HorizontalAlignment="Left" Margin="6,10,0,0" Name="label4" VerticalAlignment="Top" Width="63" />
+
+            </Grid>
+        </Grid>
+        <Grid Name="grd_Footer" Grid.Row="2">
+            <Button Content="Ok" Height="30" HorizontalAlignment="Left" Margin="1053,20,0,0" Name="btnClose" VerticalAlignment="Top" Width="104" Click="btnClose_Click" />
+        </Grid>
+        </Grid>
+</Window>

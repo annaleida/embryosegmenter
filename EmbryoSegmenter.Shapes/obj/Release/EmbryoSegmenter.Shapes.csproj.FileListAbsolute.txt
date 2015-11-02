@@ -1,0 +1,5 @@
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Release\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Release\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Release\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Release\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Release\EmbryoSegmenter.Shapes.pdb
