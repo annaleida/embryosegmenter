@@ -1,0 +1,10 @@
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Logging\bin\Debug\EmbryoSegmenter.Logging.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Logging\bin\Debug\EmbryoSegmenter.Logging.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Logging\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Logging\obj\Debug\EmbryoSegmenter.Logging.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Logging\obj\Debug\EmbryoSegmenter.Logging.pdb
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Logging\bin\Debug\EmbryoSegmenter.Logging.dll
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Logging\bin\Debug\EmbryoSegmenter.Logging.pdb
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Logging\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Logging\obj\Debug\EmbryoSegmenter.Logging.dll
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Logging\obj\Debug\EmbryoSegmenter.Logging.pdb

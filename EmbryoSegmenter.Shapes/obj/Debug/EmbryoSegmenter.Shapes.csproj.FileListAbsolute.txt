@@ -1,0 +1,10 @@
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.0\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
