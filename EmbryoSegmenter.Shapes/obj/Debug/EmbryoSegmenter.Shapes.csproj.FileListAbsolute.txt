@@ -1,0 +1,35 @@
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Shapes\bin\Debug\EmbryoSegmenter.Shapes.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Shapes\obj\Debug\EmbryoSegmenter.Shapes.pdb

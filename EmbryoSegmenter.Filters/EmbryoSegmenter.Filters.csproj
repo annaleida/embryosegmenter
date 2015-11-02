@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8DA4EAF5-6417-4A6F-AF37-A5899A662319}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EmbryoSegmenter.Filters</RootNamespace>
+    <AssemblyName>EmbryoSegmenter.Filters</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EmbryoSegmenter.Filters, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Build\EmbryoSegmenter.Filters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Calculators, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Calculators.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.CastFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.CastFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Common, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.ComposeFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.ComposeFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.DistanceMaps, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.DistanceMaps.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.EdgeFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.EdgeFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.GradientFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.GradientFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.IntensityFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.IntensityFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Interpolators, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Interpolators.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.IO, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Iterators, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Iterators.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.LevelSetFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.LevelSetFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Meshes, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Meshes.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.MorphologicalFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.MorphologicalFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.NoiseFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.NoiseFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Optimizers, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Optimizers.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Paths, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Paths.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.PixelMathFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.PixelMathFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.ProjectionFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.ProjectionFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Registration, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Registration.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.ResizeFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.ResizeFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.SpatialObjects, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.SpatialObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Statistics, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Statistics.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.ThresholdFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.ThresholdFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.Transforms, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.Transforms.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedITK.ValidationFilters, Version=3.10.0.1, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EmbryoSegmenter\Dependencies\ManagedITK.ValidationFilters.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Filter.cs" />
+    <Compile Include="GradientMagnitudeFilter.cs" />
+    <Compile Include="ImageIO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestFilter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetDir)$(TargetName).dll" "$(ProjectDir)..\EmbryoSegmenter\Build"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
