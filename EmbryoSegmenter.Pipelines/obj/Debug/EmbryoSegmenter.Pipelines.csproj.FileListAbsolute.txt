@@ -1,0 +1,231 @@
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1a01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b02\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.1b03\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a01\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Pipelines.pdb
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\EmbryoSegmenter.Filters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Calculators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.CastFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Common.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ComposeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.DistanceMaps.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.EdgeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.GradientFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IntensityFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Interpolators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.IO.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Iterators.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.LevelSetFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Meshes.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.MorphologicalFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.NoiseFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Optimizers.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Paths.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.PixelMathFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ProjectionFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Registration.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ResizeFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.SpatialObjects.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Statistics.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ThresholdFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.Transforms.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\ManagedITK.ValidationFilters.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\bin\Debug\SimpleITKCSharpManaged.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\obj\Debug\ResolveAssemblyReference.cache
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.dll
+C:\MMU\Code\EmbryoSegmenter 2.2a02\EmbryoSegmenter.Pipelines\obj\Debug\EmbryoSegmenter.Pipelines.pdb

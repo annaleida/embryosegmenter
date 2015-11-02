@@ -1,0 +1,15 @@
+﻿<Window x:Class="EmbryoSegmenter.Frames.PipelineWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls ="clr-namespace:EmbryoSegmenter.Controls"
+        Title="PipelineWindow" Height="500" Width="700">
+    <Grid>
+        <ComboBox Height="22" HorizontalAlignment="Left" Margin="12,12,0,0" Name="cbx_Pipelines" VerticalAlignment="Top" Width="171" SelectionChanged="cbx_Pipelines_SelectionChanged" />
+        <ListBox Height="411" SelectionMode="Single" HorizontalAlignment="Left" Margin="12,38,0,0" Name="lbx_Filters" VerticalAlignment="Top" Width="171" SelectionChanged="lbx_Filters_SelectionChanged" />
+        <GroupBox Header="Parameters" Height="437" HorizontalAlignment="Left" Margin="189,12,0,0" Name="gbx_Parameters" VerticalAlignment="Top" Width="477">
+            <Grid>
+                <controls:par__GradientMagnitudeFilter x:Name="GradientMagnitudeFilter" Visibility="Hidden"></controls:par__GradientMagnitudeFilter>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
